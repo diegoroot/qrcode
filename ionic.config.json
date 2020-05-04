@@ -1,5 +1,7 @@
 {
   "name": "ionic4GUIScanner",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
